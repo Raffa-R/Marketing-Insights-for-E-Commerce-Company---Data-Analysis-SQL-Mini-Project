@@ -1,0 +1,1 @@
+# Marketing-Insights-for-E-Commerce-Company---Data-Analysis-SQL-Mini-Project
