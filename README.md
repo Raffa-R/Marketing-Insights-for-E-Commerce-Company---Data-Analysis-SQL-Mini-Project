@@ -1,8 +1,7 @@
 # Marketing-Insights-for-E-Commerce-Company---Data-Analysis-SQL-Mini-Project
 
 ## Introduction
-Datasets Sources: [Kaggle](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-
-company/data)
+Datasets Sources: [Kaggle](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company/data)
 
 The goal of this mini project is to obtain conclusions in the form of information/insight from data through specified business problems. From the Kaggle dataset source, there are two tables that will be used in this project: online_sales and customers. These two tables will be entered into a database (on Google BigQuery) named ecommerce. So, the tools for this data analysis mini project is using Google BigQuery.
 
